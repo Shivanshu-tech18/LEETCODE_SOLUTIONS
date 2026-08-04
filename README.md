@@ -40,6 +40,7 @@ Solutions of problems
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Math
@@ -51,6 +52,7 @@ Solutions of problems
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -61,4 +63,12 @@ Solutions of problems
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
