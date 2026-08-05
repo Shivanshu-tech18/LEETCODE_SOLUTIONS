@@ -10,6 +10,7 @@ Solutions of problems
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -80,4 +81,12 @@ Solutions of problems
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
