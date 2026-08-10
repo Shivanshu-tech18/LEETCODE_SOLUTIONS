@@ -40,6 +40,7 @@ Solutions of problems
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
@@ -53,6 +54,7 @@ Solutions of problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
@@ -89,4 +91,12 @@ Solutions of problems
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
