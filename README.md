@@ -45,6 +45,7 @@ Solutions of problems
 | [0486-predict-the-winner](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -60,6 +61,7 @@ Solutions of problems
 | [0300-longest-increasing-subsequence](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 ## Recursion
 |  |
