@@ -6,15 +6,18 @@ Solutions of problems
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0993-cousins-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0993-cousins-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +97,7 @@ Solutions of problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0993-cousins-in-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0993-cousins-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
