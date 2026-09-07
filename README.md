@@ -41,6 +41,7 @@ Solutions of problems
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
@@ -121,4 +122,8 @@ Solutions of problems
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
