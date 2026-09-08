@@ -21,6 +21,7 @@ Solutions of problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -44,6 +45,7 @@ Solutions of problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
