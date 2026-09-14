@@ -8,11 +8,13 @@ Solutions of problems
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [3310-remove-methods-from-project](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -20,6 +22,7 @@ Solutions of problems
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,4 +160,5 @@ Solutions of problems
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
