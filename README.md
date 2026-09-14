@@ -5,6 +5,7 @@ Solutions of problems
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -16,6 +17,7 @@ Solutions of problems
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0993-cousins-in-binary-tree) |
 ## Hash Table
@@ -95,6 +97,7 @@ Solutions of problems
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -146,4 +149,12 @@ Solutions of problems
 |  |
 | ------- |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
