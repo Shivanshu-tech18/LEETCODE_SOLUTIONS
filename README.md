@@ -22,12 +22,14 @@ Solutions of problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -140,4 +142,8 @@ Solutions of problems
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2054-two-best-non-overlapping-events) |
+## Sliding Window
+|  |
+| ------- |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
