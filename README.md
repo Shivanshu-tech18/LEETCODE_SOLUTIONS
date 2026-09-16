@@ -43,6 +43,7 @@ Solutions of problems
 ## Sorting
 |  |
 | ------- |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2054-two-best-non-overlapping-events) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -62,6 +63,7 @@ Solutions of problems
 | [0739-daily-temperatures](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2054-two-best-non-overlapping-events) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -120,6 +122,7 @@ Solutions of problems
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2054-two-best-non-overlapping-events) |
 ## Longest Increasing Subsequence
 |  |
@@ -139,6 +142,7 @@ Solutions of problems
 ## Two Pointers
 |  |
 | ------- |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
