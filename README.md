@@ -69,6 +69,7 @@ Solutions of problems
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2054-two-best-non-overlapping-events) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Math
@@ -77,6 +78,7 @@ Solutions of problems
 | [0486-predict-the-winner](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
