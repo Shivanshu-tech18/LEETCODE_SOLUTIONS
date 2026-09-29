@@ -73,6 +73,7 @@ Solutions of problems
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2054-two-best-non-overlapping-events) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -94,6 +95,7 @@ Solutions of problems
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2054-two-best-non-overlapping-events) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Recursion
 |  |
 | ------- |
@@ -182,4 +184,12 @@ Solutions of problems
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
