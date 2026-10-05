@@ -38,6 +38,7 @@ Solutions of problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -151,6 +152,7 @@ Solutions of problems
 | [0020-valid-parentheses](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -194,5 +196,6 @@ Solutions of problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
