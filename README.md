@@ -76,6 +76,7 @@ Solutions of problems
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2054-two-best-non-overlapping-events) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -198,4 +199,8 @@ Solutions of problems
 | [0020-valid-parentheses](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
