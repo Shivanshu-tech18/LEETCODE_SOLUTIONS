@@ -49,6 +49,7 @@ Solutions of problems
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0506-relative-ranks) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2054-two-best-non-overlapping-events) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -65,6 +66,7 @@ Solutions of problems
 | [0300-longest-increasing-subsequence](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
@@ -173,6 +175,7 @@ Solutions of problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0506-relative-ranks) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2054-two-best-non-overlapping-events) |
 ## Sliding Window
 |  |
