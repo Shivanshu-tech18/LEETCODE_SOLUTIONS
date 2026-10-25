@@ -15,6 +15,7 @@ Solutions of problems
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1254-number-of-closed-islands](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -71,6 +72,7 @@ Solutions of problems
 | [0739-daily-temperatures](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
+| [1254-number-of-closed-islands](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -132,6 +134,7 @@ Solutions of problems
 |  |
 | ------- |
 | [0993-cousins-in-binary-tree](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0993-cousins-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -195,6 +198,7 @@ Solutions of problems
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bracket Sequences
 |  |
@@ -206,4 +210,8 @@ Solutions of problems
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
