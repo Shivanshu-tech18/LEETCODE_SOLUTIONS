@@ -90,6 +90,7 @@ Solutions of problems
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
@@ -100,6 +101,7 @@ Solutions of problems
 | [0518-coin-change-ii](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/2054-two-best-non-overlapping-events) |
@@ -113,6 +115,7 @@ Solutions of problems
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -225,4 +228,12 @@ Solutions of problems
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/0797-all-paths-from-source-to-target) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Shivanshu-tech18/LEETCODE_SOLUTIONS/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
